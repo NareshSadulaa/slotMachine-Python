@@ -1,5 +1,3 @@
----
-
 # 🎰 Slot Machine Game (Python)
 
 A **console-based slot machine game** built in Python that allows players to deposit money, place bets on lines, and spin to try their luck. The game calculates winnings based on matching symbols and tracks the player’s balance across multiple spins.
@@ -81,5 +79,3 @@ Press Enter to Play Again or q to quit:
 ## 📜 License
 
 This project is open-source and available under the **MIT License**.
-
----
